@@ -13,9 +13,9 @@ while(eded2>0) {
 eded1=eded1-cem;
 say++;
 console.log( eded1,cem,say);
-console.log("repeat="+say);
-}
 
+}
+console.log("repeatTIME="+say);
 
 
 
